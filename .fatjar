@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Feb 08 10:39:35 CST 2017
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=C\:\\Users\\Administrator\\Desktop\\Test85.jar
+manifest.mergeall=true
+manifest.mainclass=com.test.Test85
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=<jar|dubbo-2.5.4.jar>
+includes=
